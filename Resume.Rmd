@@ -1,0 +1,205 @@
+---
+title: "Joaquin Dominguez's resume"
+author: Joaquin Dominguez
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+---
+
+Aside
+================================================================================
+
+![profile](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/Profile_2.png){width=900%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> joaquind@smu.edu   
+<i class="fa fa-github"></i>
+[Github/J-dominguez9](https://github.com/j-dominguez9)   
+<i class="fas fa-chart-area"></i>
+[rpubs/joaquind](https://rpubs.com/joaquind/)<br/>
+<i class="fas fa-phone"></i> (970) 710-1235
+
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Find this resume in HTML at [rpubs.com/joaquind/resume](https://rpubs.com/joaquind/829394)
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Joaquin Dominguez {#title}
+---------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+---------------------------------------------------------------------------------
+
+### Southern Methodist University
+Master of Science, Data Science<br/>
+Specialization: Machine Learning
+
+Dallas, TX
+
+2021 - Present
+
+Related coursework:<br/>
+- Doing Data Science<br/>
+- Statistics<br/>
+- Machine Learning<br/>
+- Cloud Computing<br/>
+- Visualizations<br/>
+
+
+### Harvard University
+ALM, Government Extension Studies<br/>
+Specialization: Policy Writing
+
+Cambridge, MA
+
+2020
+
+
+
+### Colorado State University
+Bachelor of Science, Psychology<br/>
+Concentration: Mind, Brain, and Behavior
+
+Fort Collins, CO
+
+2015
+
+Research Experience {data-icon=laptop}
+---------------------------------------------------------------------------------
+
+### Graduate Thesis Research
+
+Harvard University
+
+Cambridge, MA
+
+2020
+
+- Using Fiscal Policy as a Means to Address Income Inequality in the United States
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Financial Advisor
+
+Northwestern Mutual
+
+New Haven, CT
+
+2020 - 2021
+
+
+- Assisted individuals and businesses in meeting their financial goals by employing a comprehensive financial planning process
+- Specialized in investment risk management, debt management, insurance, and retirement planning. 
+
+
+### Stakeholder Specialist
+
+CFP Board of Standards
+
+Washington, D.C.
+
+2017 - 2018
+
+
+- Analyzed problems and adjusted work procedures to maximize efficiency
+- Maintained correspondence with 90+ stakeholders daily
+- Implemented novel ways to make the financial planner certification process more efficient
+
+### Paralegal/Office Manager
+
+Law Office of Thomas W. Martin
+
+Fort Collins, CO
+
+2017
+
+- Drafted and Filed client documentation to court
+- Maintained correspondence with new and existing clients
+- Managed all files and scheduling for office
+
+
+Professional Certificate {data-icon=certificate}
+--------------------------------------------------------------------------------
+### Google Data Analytics
+
+Coursera
+
+New Haven, CT
+
+2021
+
+- Completed Google's rigorous hands-on program that covers the entire scope of the data analysis process
+
+
+
+::: aside
+
+- ### Budweiser Data Analysis
+
+![DA](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/PinClipart.com_mechanical-energy-clipart_3676244.png){width=70%}
+
+- Used machine learning models and statistical analysis<br/>
+- Repo: /github.com/j-dominguez9/Case-Study-1
+
+### Skills:
+
+- -Statistical Analysis<br/>
+
+- -Machine Learning<br/>
+
+- -Data Analysis<br/>
+
+- -R, SQL, Python, Tableau, and Google BigQuery<br/>
+
+
+:::
+
+Projects {data-icon=file}
+--------------------------------------------------------------------------------
+### Budweiser Data Analysis
+
+Southern Methodist University
+
+Dallas, TX
+
+2021
+
+- Tasked with investigating the relationship between multiple variables in data sets provided and reporting insightful findings
+
+
+Appointments {data-icon=building}
+--------------------------------------------------------------------------------
+### Climate Emergency Task Force
+
+City of New Haven
+
+New Haven, CT
+
+2020
+
+- Worked on cutting carbon emissions by implementing sustainable practices and providing public awareness on climate change
+
+
+
+
