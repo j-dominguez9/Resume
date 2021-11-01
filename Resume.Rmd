@@ -159,23 +159,23 @@ New Haven, CT
 
 ![DA](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/PinClipart.com_mechanical-energy-clipart_3676244.png){width=70%}
 
-- Used machine learning models and statistical analysis<br/>
+- Applied machine learning models and statistical analysis<br/>
 - Repo: /github.com/j-dominguez9/Case-Study-1
 
 ### Skills:
 
-- -Statistical Analysis<br/>
+- -Statistical Analysis
 
-- -Machine Learning<br/>
+- -Machine Learning
 
-- -Data Analysis<br/>
+- -Data Analysis
 
-- -R, SQL, Python, Tableau, and Google BigQuery<br/>
+- -R, SQL, Python, Tableau, and Google BigQuery
 
 
 :::
 
-Projects {data-icon=file}
+Projects{data-icon=file}
 --------------------------------------------------------------------------------
 ### Budweiser Data Analysis
 
@@ -183,23 +183,8 @@ Southern Methodist University
 
 Dallas, TX
 
-2021
+2020 - 2021
 
 - Tasked with investigating the relationship between multiple variables in data sets provided and reporting insightful findings
-
-
-Appointments {data-icon=building}
---------------------------------------------------------------------------------
-### Climate Emergency Task Force
-
-City of New Haven
-
-New Haven, CT
-
-2020
-
-- Worked on cutting carbon emissions by implementing sustainable practices and providing public awareness on climate change
-
-
 
 
