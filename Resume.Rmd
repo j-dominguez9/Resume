@@ -25,18 +25,14 @@ Contact Info {#contact}
 <i class="fas fa-phone"></i> (970) 710-1235
 
 
-
-
-
-
-Disclaimer {#disclaimer}
+Projects {#skills}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+- #### Budweiser Data Analysis
 
-Find this resume in HTML at [rpubs.com/joaquind/resume](https://rpubs.com/joaquind/829394)
+![DA](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/Budweiser.png){width=90%}
+- Repo:[Github/J-dominguez9/Budweiser](https://github.com/j-dominguez9/Case-Study-1)
 
-Last updated on `r Sys.Date()`.
 
 
 Main
@@ -126,6 +122,7 @@ Washington, D.C.
 - Maintained correspondence with 90+ stakeholders daily
 - Implemented novel ways to make the financial planner certification process more efficient
 
+
 ### Paralegal/Office Manager
 
 Law Office of Thomas W. Martin
@@ -152,39 +149,39 @@ New Haven, CT
 - Completed Google's rigorous hands-on program that covers the entire scope of the data analysis process
 
 
-
-::: aside
-
-- ### Budweiser Data Analysis
-
-![DA](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/PinClipart.com_mechanical-energy-clipart_3676244.png){width=70%}
-
-- Applied machine learning models and statistical analysis<br/>
-- Repo: /github.com/j-dominguez9/Case-Study-1
-
-### Skills:
-
-- -Statistical Analysis
-
-- -Machine Learning
-
-- -Data Analysis
-
-- -R, SQL, Python, Tableau, and Google BigQuery
-
-
-:::
-
-Projects{data-icon=file}
+Portfolio {data-icon=file}
 --------------------------------------------------------------------------------
+
 ### Budweiser Data Analysis
 
-Southern Methodist University
+Doing Data Science
 
 Dallas, TX
 
-2020 - 2021
+2020
 
 - Tasked with investigating the relationship between multiple variables in data sets provided and reporting insightful findings
 
 
+Appointments {data-icon=building}
+--------------------------------------------------------------------------------
+
+### Climate Emergency Task Force
+
+City of New Haven
+
+New Haven, CT
+
+2020
+
+- Worked on cutting carbon emissions by implementing sustainable practices and providing public awareness on climate change
+
+::: aside
+--------------------------------------------------------------------------------
+
+#### Disclaimer
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+:::
