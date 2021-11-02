@@ -135,6 +135,22 @@ Fort Collins, CO
 - Maintained correspondence with new and existing clients
 - Managed all files and scheduling for office
 
+::: aside
+
+- #### Graduate Research Thesis
+
+![ii](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/income_inequality_2.png){width=90%}
+
+- Policy analysis on income inequality
+- Repo: [Github/J-dominguez9/income](https://github.com/j-dominguez9/Resume/blob/main/Policy%20Analysis%20Final.docx)
+
+
+### Skills:
+
+R, SQL, Machine Learning, Data Analysis, Statistical Analysis, Python, Tableau, Google BigQuery
+
+:::
+
 
 Professional Certificate {data-icon=certificate}
 --------------------------------------------------------------------------------
