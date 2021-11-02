@@ -27,7 +27,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- R, SQL, Machine Learning, Data Analysis, Statistical Analysis, Python, Tableau, Google BigQuery
+- R, SQL, Json, Python, Machine Learning, Time-series, Data Analysis, Statistical Analysis, Tableau
 
 
 Main
