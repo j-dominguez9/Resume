@@ -13,7 +13,6 @@ Aside
 
 ![profile](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/Profile_2.png){width=900%}
 
-
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
@@ -31,6 +30,8 @@ Projects {#skills}
 - #### Budweiser Data Analysis
 
 ![DA](https://raw.githubusercontent.com/j-dominguez9/Resume/main/pics/Budweiser.png){width=90%}
+
+- Applied machine learning models and statistical analyses
 - Repo:[Github/J-dominguez9/Budweiser](https://github.com/j-dominguez9/Case-Study-1)
 
 
@@ -144,10 +145,9 @@ Fort Collins, CO
 - Policy analysis on income inequality
 - Repo: [Github/J-dominguez9/income](https://github.com/j-dominguez9/Resume/blob/main/Policy%20Analysis%20Final.docx)
 
+#### Skills:
 
-### Skills:
-
-R, SQL, Machine Learning, Data Analysis, Statistical Analysis, Python, Tableau, Google BigQuery
+- R, SQL, Machine Learning, Data Analysis, Statistical Analysis, Python, Tableau, Google BigQuery
 
 :::
 
@@ -192,12 +192,5 @@ New Haven, CT
 
 - Worked on cutting carbon emissions by implementing sustainable practices and providing public awareness on climate change
 
-::: aside
---------------------------------------------------------------------------------
 
-#### Disclaimer
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
-
-:::
